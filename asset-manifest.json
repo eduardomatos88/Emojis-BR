@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eduardomatos88/Emojis-BR/static/css/main.d6a495c1.chunk.css",
+    "main.js": "/eduardomatos88/Emojis-BR/static/js/main.43d9a703.chunk.js",
+    "main.js.map": "/eduardomatos88/Emojis-BR/static/js/main.43d9a703.chunk.js.map",
+    "runtime-main.js": "/eduardomatos88/Emojis-BR/static/js/runtime-main.bb689c8b.js",
+    "runtime-main.js.map": "/eduardomatos88/Emojis-BR/static/js/runtime-main.bb689c8b.js.map",
+    "static/js/2.7348831d.chunk.js": "/eduardomatos88/Emojis-BR/static/js/2.7348831d.chunk.js",
+    "static/js/2.7348831d.chunk.js.map": "/eduardomatos88/Emojis-BR/static/js/2.7348831d.chunk.js.map",
+    "index.html": "/eduardomatos88/Emojis-BR/index.html",
+    "precache-manifest.19eb4acdd0dd3021d8686f1ebe9d5431.js": "/eduardomatos88/Emojis-BR/precache-manifest.19eb4acdd0dd3021d8686f1ebe9d5431.js",
+    "service-worker.js": "/eduardomatos88/Emojis-BR/service-worker.js",
+    "static/css/main.d6a495c1.chunk.css.map": "/eduardomatos88/Emojis-BR/static/css/main.d6a495c1.chunk.css.map",
+    "static/js/2.7348831d.chunk.js.LICENSE.txt": "/eduardomatos88/Emojis-BR/static/js/2.7348831d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb689c8b.js",
+    "static/js/2.7348831d.chunk.js",
+    "static/css/main.d6a495c1.chunk.css",
+    "static/js/main.43d9a703.chunk.js"
+  ]
+}
