@@ -1,4 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 .container {
-    min-width: 100vw;
+    width: calc(100vw - 25px);
     min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+.emoji-container {
+    min-width: 230px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 15px;
+}
+.emoji-name, .emoji-traduzido  {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    width: 100%;
+    background-color: #038D94;
+    border-radius: 10px;
+    color: #ffffff;
+    padding: 10px 0;
+}
+.emoji-traduzido {
+    background-color: #00494C;
+    margin-top: 5px;
+}
+.emoji-image {
+    width: 50px;
+    margin-bottom: 10px;
 }
