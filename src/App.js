@@ -35,7 +35,7 @@ function App() {
     navigator.clipboard.writeText(emojiReady)
     store.addNotification({
       title: `Emoji "${emoji}" copiado`,
-      message: 'Agora é colar para utilizar o seu emoji!',
+      message: 'Agora é colar e utilizar o seu emoji!',
       type: 'success',
       container: 'top-right',
       animationIn: ["animate__animated", "animate__fadeIn"],
