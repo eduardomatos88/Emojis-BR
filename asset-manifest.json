@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/Emojis-BR/static/css/main.d6a495c1.chunk.css",
-    "main.js": "/Emojis-BR/static/js/main.43d9a703.chunk.js",
-    "main.js.map": "/Emojis-BR/static/js/main.43d9a703.chunk.js.map",
+    "main.css": "/Emojis-BR/static/css/main.dc0aee54.chunk.css",
+    "main.js": "/Emojis-BR/static/js/main.aa92df6c.chunk.js",
+    "main.js.map": "/Emojis-BR/static/js/main.aa92df6c.chunk.js.map",
     "runtime-main.js": "/Emojis-BR/static/js/runtime-main.d6c59dd1.js",
     "runtime-main.js.map": "/Emojis-BR/static/js/runtime-main.d6c59dd1.js.map",
-    "static/js/2.7348831d.chunk.js": "/Emojis-BR/static/js/2.7348831d.chunk.js",
-    "static/js/2.7348831d.chunk.js.map": "/Emojis-BR/static/js/2.7348831d.chunk.js.map",
+    "static/css/2.1eb21bb0.chunk.css": "/Emojis-BR/static/css/2.1eb21bb0.chunk.css",
+    "static/js/2.6b7b23eb.chunk.js": "/Emojis-BR/static/js/2.6b7b23eb.chunk.js",
+    "static/js/2.6b7b23eb.chunk.js.map": "/Emojis-BR/static/js/2.6b7b23eb.chunk.js.map",
     "index.html": "/Emojis-BR/index.html",
-    "precache-manifest.5777c1ea4c63a5af2899f2404170d927.js": "/Emojis-BR/precache-manifest.5777c1ea4c63a5af2899f2404170d927.js",
+    "precache-manifest.9707548b8660b367099e0d1c95a3b65d.js": "/Emojis-BR/precache-manifest.9707548b8660b367099e0d1c95a3b65d.js",
     "service-worker.js": "/Emojis-BR/service-worker.js",
-    "static/css/main.d6a495c1.chunk.css.map": "/Emojis-BR/static/css/main.d6a495c1.chunk.css.map",
-    "static/js/2.7348831d.chunk.js.LICENSE.txt": "/Emojis-BR/static/js/2.7348831d.chunk.js.LICENSE.txt"
+    "static/css/2.1eb21bb0.chunk.css.map": "/Emojis-BR/static/css/2.1eb21bb0.chunk.css.map",
+    "static/css/main.dc0aee54.chunk.css.map": "/Emojis-BR/static/css/main.dc0aee54.chunk.css.map",
+    "static/js/2.6b7b23eb.chunk.js.LICENSE.txt": "/Emojis-BR/static/js/2.6b7b23eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d6c59dd1.js",
-    "static/js/2.7348831d.chunk.js",
-    "static/css/main.d6a495c1.chunk.css",
-    "static/js/main.43d9a703.chunk.js"
+    "static/css/2.1eb21bb0.chunk.css",
+    "static/js/2.6b7b23eb.chunk.js",
+    "static/css/main.dc0aee54.chunk.css",
+    "static/js/main.aa92df6c.chunk.js"
   ]
 }
