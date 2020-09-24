@@ -1,13 +1,60 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body {
+    margin: 0;
+}
+#root {
+    margin: 0;
+}
 
 .container {
-    width: calc(100vw - 25px);
+    width: 100vw;
     min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0;
+    margin: 0;
+    background-color: #eeeeee;
+}
+.container .title {
+    width: 100%;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    color: #00494C;
+    font-size: 70px;
+    font-weight: 700;
+    text-align: center;
+}
+.emoji-search {
+    width: 100%;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 0;
+}
+.emoji-search .search {
+    font-size: 18px;
+    width: 50%;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid #038D94;
+    text-align: center;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+}
+.emoji-search .search:focus {
+    height: 33px;
+    border-top: 2px solid #038D94;
+    border-bottom: 2px solid #038D94;
+    outline: none;
+}
+.emoji-list {
+    margin: 0 15px;
+    display: flex;
+    justify-content: center;
     flex-wrap: wrap;
 }
 .emoji-container {
-    min-width: 230px;
+    width: 230px;
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
@@ -21,16 +68,44 @@
     font-weight: 700;
     text-align: center;
     width: 100%;
+    max-width: 230px;
     background-color: #038D94;
     border-radius: 10px;
     color: #ffffff;
     padding: 10px 0;
-}
-.emoji-traduzido {
-    background-color: #00494C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-top: 5px;
 }
+.emoji-traduzido:hover {
+    background-color: #047c83;
+}
 .emoji-image {
-    width: 50px;
+    width: 60px;
     margin-bottom: 10px;
+}
+@media(max-width: 550px) {
+    .container .title {
+        font-size: 50px;
+        width: 100%;
+    }
+    .emoji-search .search {
+        width: 95vw;
+        margin-left: 3px;
+        margin-right: 20px;
+    }
+    .emoji-container {
+        margin: 0 0 20px 0;
+        width: 100%;
+    }
+    .emoji-name, .emoji-traduzido  {
+        font-size: 18px;
+        max-width: 90%;
+        margin-top: 5px;
+    }
+    .emoji-image {
+        width: 70px;
+        margin-bottom: 10px;
+    }
 }
