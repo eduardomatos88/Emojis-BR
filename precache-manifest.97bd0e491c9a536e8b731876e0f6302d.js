@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "662e0ee0d636fa930810bf181a2b5770",
+    "revision": "3ed7aa48fe787c8fec06d2ad8c91a10c",
     "url": "/Git-Emojis-BR/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Git-Emojis-BR/static/css/2.1eb21bb0.chunk.css"
   },
   {
-    "revision": "0fefa8260628d9726c56",
-    "url": "/Git-Emojis-BR/static/css/main.9a8b0c1f.chunk.css"
+    "revision": "3448e0565f4bc2e95a57",
+    "url": "/Git-Emojis-BR/static/css/main.a73bd354.chunk.css"
   },
   {
     "revision": "1db35f46f8f41e82f3e1",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Git-Emojis-BR/static/js/2.6b7b23eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0fefa8260628d9726c56",
-    "url": "/Git-Emojis-BR/static/js/main.c909b84d.chunk.js"
+    "revision": "3448e0565f4bc2e95a57",
+    "url": "/Git-Emojis-BR/static/js/main.15a35ea5.chunk.js"
   },
   {
     "revision": "e433ade42aba30fb0953",

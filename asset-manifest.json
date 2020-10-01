@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Git-Emojis-BR/static/css/main.9a8b0c1f.chunk.css",
-    "main.js": "/Git-Emojis-BR/static/js/main.c909b84d.chunk.js",
-    "main.js.map": "/Git-Emojis-BR/static/js/main.c909b84d.chunk.js.map",
+    "main.css": "/Git-Emojis-BR/static/css/main.a73bd354.chunk.css",
+    "main.js": "/Git-Emojis-BR/static/js/main.15a35ea5.chunk.js",
+    "main.js.map": "/Git-Emojis-BR/static/js/main.15a35ea5.chunk.js.map",
     "runtime-main.js": "/Git-Emojis-BR/static/js/runtime-main.0ed5650e.js",
     "runtime-main.js.map": "/Git-Emojis-BR/static/js/runtime-main.0ed5650e.js.map",
     "static/css/2.1eb21bb0.chunk.css": "/Git-Emojis-BR/static/css/2.1eb21bb0.chunk.css",
     "static/js/2.6b7b23eb.chunk.js": "/Git-Emojis-BR/static/js/2.6b7b23eb.chunk.js",
     "static/js/2.6b7b23eb.chunk.js.map": "/Git-Emojis-BR/static/js/2.6b7b23eb.chunk.js.map",
     "index.html": "/Git-Emojis-BR/index.html",
-    "precache-manifest.67d8690a4c328affc26bc6d39ed307d1.js": "/Git-Emojis-BR/precache-manifest.67d8690a4c328affc26bc6d39ed307d1.js",
+    "precache-manifest.97bd0e491c9a536e8b731876e0f6302d.js": "/Git-Emojis-BR/precache-manifest.97bd0e491c9a536e8b731876e0f6302d.js",
     "service-worker.js": "/Git-Emojis-BR/service-worker.js",
     "static/css/2.1eb21bb0.chunk.css.map": "/Git-Emojis-BR/static/css/2.1eb21bb0.chunk.css.map",
-    "static/css/main.9a8b0c1f.chunk.css.map": "/Git-Emojis-BR/static/css/main.9a8b0c1f.chunk.css.map",
+    "static/css/main.a73bd354.chunk.css.map": "/Git-Emojis-BR/static/css/main.a73bd354.chunk.css.map",
     "static/js/2.6b7b23eb.chunk.js.LICENSE.txt": "/Git-Emojis-BR/static/js/2.6b7b23eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0ed5650e.js",
     "static/css/2.1eb21bb0.chunk.css",
     "static/js/2.6b7b23eb.chunk.js",
-    "static/css/main.9a8b0c1f.chunk.css",
-    "static/js/main.c909b84d.chunk.js"
+    "static/css/main.a73bd354.chunk.css",
+    "static/js/main.15a35ea5.chunk.js"
   ]
 }
