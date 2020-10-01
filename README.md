@@ -14,8 +14,6 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 <b>Emoji BR</b> é um projeto que visa ajudar na busca por emojis para serem utilizados em seus projetos do Github.
 
-> > > > > > > bd260270ce5b49eed21d9ef7dfda0c230f88af68
-
 ### :recycle: Como contribuir
 
 - Fork esse repositório;
