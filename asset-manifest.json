@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Emojis-BR/static/css/main.dc0aee54.chunk.css",
-    "main.js": "/Emojis-BR/static/js/main.aa92df6c.chunk.js",
-    "main.js.map": "/Emojis-BR/static/js/main.aa92df6c.chunk.js.map",
-    "runtime-main.js": "/Emojis-BR/static/js/runtime-main.d6c59dd1.js",
-    "runtime-main.js.map": "/Emojis-BR/static/js/runtime-main.d6c59dd1.js.map",
-    "static/css/2.1eb21bb0.chunk.css": "/Emojis-BR/static/css/2.1eb21bb0.chunk.css",
-    "static/js/2.6b7b23eb.chunk.js": "/Emojis-BR/static/js/2.6b7b23eb.chunk.js",
-    "static/js/2.6b7b23eb.chunk.js.map": "/Emojis-BR/static/js/2.6b7b23eb.chunk.js.map",
-    "index.html": "/Emojis-BR/index.html",
-    "precache-manifest.9707548b8660b367099e0d1c95a3b65d.js": "/Emojis-BR/precache-manifest.9707548b8660b367099e0d1c95a3b65d.js",
-    "service-worker.js": "/Emojis-BR/service-worker.js",
-    "static/css/2.1eb21bb0.chunk.css.map": "/Emojis-BR/static/css/2.1eb21bb0.chunk.css.map",
-    "static/css/main.dc0aee54.chunk.css.map": "/Emojis-BR/static/css/main.dc0aee54.chunk.css.map",
-    "static/js/2.6b7b23eb.chunk.js.LICENSE.txt": "/Emojis-BR/static/js/2.6b7b23eb.chunk.js.LICENSE.txt"
+    "main.css": "/Git-Emojis-BR/static/css/main.9a8b0c1f.chunk.css",
+    "main.js": "/Git-Emojis-BR/static/js/main.c909b84d.chunk.js",
+    "main.js.map": "/Git-Emojis-BR/static/js/main.c909b84d.chunk.js.map",
+    "runtime-main.js": "/Git-Emojis-BR/static/js/runtime-main.0ed5650e.js",
+    "runtime-main.js.map": "/Git-Emojis-BR/static/js/runtime-main.0ed5650e.js.map",
+    "static/css/2.1eb21bb0.chunk.css": "/Git-Emojis-BR/static/css/2.1eb21bb0.chunk.css",
+    "static/js/2.6b7b23eb.chunk.js": "/Git-Emojis-BR/static/js/2.6b7b23eb.chunk.js",
+    "static/js/2.6b7b23eb.chunk.js.map": "/Git-Emojis-BR/static/js/2.6b7b23eb.chunk.js.map",
+    "index.html": "/Git-Emojis-BR/index.html",
+    "precache-manifest.67d8690a4c328affc26bc6d39ed307d1.js": "/Git-Emojis-BR/precache-manifest.67d8690a4c328affc26bc6d39ed307d1.js",
+    "service-worker.js": "/Git-Emojis-BR/service-worker.js",
+    "static/css/2.1eb21bb0.chunk.css.map": "/Git-Emojis-BR/static/css/2.1eb21bb0.chunk.css.map",
+    "static/css/main.9a8b0c1f.chunk.css.map": "/Git-Emojis-BR/static/css/main.9a8b0c1f.chunk.css.map",
+    "static/js/2.6b7b23eb.chunk.js.LICENSE.txt": "/Git-Emojis-BR/static/js/2.6b7b23eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6c59dd1.js",
+    "static/js/runtime-main.0ed5650e.js",
     "static/css/2.1eb21bb0.chunk.css",
     "static/js/2.6b7b23eb.chunk.js",
-    "static/css/main.dc0aee54.chunk.css",
-    "static/js/main.aa92df6c.chunk.js"
+    "static/css/main.9a8b0c1f.chunk.css",
+    "static/js/main.c909b84d.chunk.js"
   ]
 }
