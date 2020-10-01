@@ -1,41 +1,20 @@
-# Emoji-BR
-
-Um projeto para buscar emojis em português para usar em commits no GitHub.
-
-<h4 align="center">
-<b style="font-size: 250px" >EMOJIS BR</b><br>
- <b>Busca emojis em português!</b> 🦸‍♂️
-</h4>
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
-  </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
-</p>
-
-<br>
+# Git Emoji BR
 
 ### :rocket: Tecnologias usadas
 
-Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
+O projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [Expo](https://expo.io/)
-- [Express](https://expressjs.com/pt-br/)
+- [Node.js](https://nodejs.org/pt-br/)
 - [ExpressJs](https://expressjs.com/pt-br/)
 - [Nodemon](https://www.npmjs.com/package/nodemon)
-- [Axios](https://www.npmjs.com/package/axios)
-- [Cors](https://www.npmjs.com/package/cors)
-- [Eslint](https://www.npmjs.com/package/eslint)
-- [Jest](https://www.npmjs.com/package/jest)
+- [gh-pages](https://www.npmjs.com/package/gh-pages)
+- [react-notifications-component](https://www.npmjs.com/package/react-notifications-component)
 
 ### :muscle: Projeto
 
-<b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, ajudando a mesma se manter.
+<b>Emoji BR</b> é um projeto que visa ajudar na busca por emojis para serem utilizados em seus projetos do Github.
 
-### 🦸‍♂️ Qual a importância de ajudar uma ONG? <br>
-
-As organizações não governamentais <b>(ONGs)</b> são entidades privadas da sociedade civil, sem fins lucrativos, cujo propósito é defender e promover uma causa. Essa causa pode ser virtualmente de qualquer tipo: <b>direitos humanos</b>, <b>direitos animais</b>, <b>direitos indígenas</b>, <b>gênero</b>, <b>luta contra o racismo</b>, <b>meio ambiente</b>, <b>questões urbanas</b>, <b>imigrantes</b>, entre muitos outros.
+> > > > > > > bd260270ce5b49eed21d9ef7dfda0c230f88af68
 
 ### :recycle: Como contribuir
 
@@ -44,19 +23,12 @@ As organizações não governamentais <b>(ONGs)</b> são entidades privadas da s
 - Commit suas mudanças: `git commit -m 'feat: My new feature'`
 - Push a sua branch: `git push origin my-feature`
 
-### :mortar_board: Quem ministrou?
-
-A semana foi ministrada pelo <b>Mestre Jedi</b> [Diego Fernandes](https://github.com/diego3g)
-
-### :memo: Licença
+### :pencil: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-### :muscle: Quem deu aquela força para não desistir?
+### :ok_hand: Quem contribuiu com o projeto?
 
-O pessoal da He4rt Developers e da Rocketseat deram aquela mão quando as coisas ficaram ruins e me salvaram, sem me deixar desistir!
-Entrem na [comunidade da He4rt Developers](https://discord.gg/8mA4CM2) e [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRAFhc)
+- [Kelson Teixeira](https://github.com/KelsonTeixeira)
 
----
-
-<p align="center">Feito com ❤️ por <strong>João Carli :wave: </p>
+<p align="center">Feito com carinho por <strong>Luiz Eduardo</strong> :ant:</p>
