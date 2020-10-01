@@ -1,4 +1,4 @@
-# Emoji-BR
+# Git Emoji BR
 
 ### :rocket: Tecnologias usadas
 O projeto foi desenvolvido com as seguintes tecnologias:
