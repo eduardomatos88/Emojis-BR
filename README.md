@@ -5,8 +5,7 @@
 O projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/pt-br/)
-- [ExpressJs](https://expressjs.com/pt-br/)
-- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [ReactJS](https://pt-br.reactjs.org/)
 - [gh-pages](https://www.npmjs.com/package/gh-pages)
 - [react-notifications-component](https://www.npmjs.com/package/react-notifications-component)
 
