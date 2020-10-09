@@ -61,7 +61,10 @@ function App() {
         </div>
         <div className="emoji-list">
           {emojiList.map(emoji => (
-            <div className="emoji-container" key={emoji.emoji}>
+            <div className="emoji-container"
+              key={emoji.emoji}
+              onClick={() => copyEmojiToClipboard(emoji.emoji)}
+            >
               <img
                 src={emoji.link}
                 alt={emoji.emoji}
@@ -69,7 +72,6 @@ function App() {
               ></img>
               <span
                 className="emoji-traduzido"
-                onClick={() => copyEmojiToClipboard(emoji.emoji)}
               >
                 {emoji.traduzido}
               </span>
