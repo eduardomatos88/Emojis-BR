@@ -11,7 +11,11 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ### :muscle: Projeto
 
-<b>Emoji BR</b> é um projeto que visa ajudar na busca por emojis para serem utilizados em seus projetos do Github.
+**Emoji BR** é um projeto que visa ajudar na busca por emojis, traduzidos para o **português**, para serem utilizados em seus projetos do Github.
+
+### :old_key: gh-pages
+
+Para automatizar o deploy para o **Github Pages**, eu decidi utilizar esta biblioteca sensacional, onde ela pega o conteúdo da build do projeto e adiciona em uma branch chamada "gh-pages" que será exibida na url https://eduardomatos88.github.io/Git-Emojis-BR/ automaticamente pelo Github, onde está rodando a aplicação em produção para uso geral neste momento.
 
 ### :recycle: Como contribuir
 
